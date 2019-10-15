@@ -1,0 +1,24 @@
+{
+  "name": "gift-card-backend",
+  "version": "1.0.0",
+  "description": "a simple gift card app structure, intended to show the basics of the gift card model",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyav/simple-gift-card-app.git"
+  },
+  "keywords": [
+    "gitf-card",
+    "gift",
+    "javascript"
+  ],
+  "author": "Moses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyav/simple-gift-card-app/issues"
+  },
+  "homepage": "https://github.com/Tyav/simple-gift-card-app#readme"
+}
